@@ -1,0 +1,27 @@
+G:\Practice MVC\ATM Project\ATM Project\bin\Debug\ATM Project.exe.config
+G:\Practice MVC\ATM Project\ATM Project\bin\Debug\ATM Project.exe
+G:\Practice MVC\ATM Project\ATM Project\bin\Debug\ATM Project.pdb
+G:\Practice MVC\ATM Project\ATM Project\obj\Debug\ATM Project.csprojResolveAssemblyReference.cache
+G:\Practice MVC\ATM Project\ATM Project\obj\Debug\ATM_Project.Properties.Resources.resources
+G:\Practice MVC\ATM Project\ATM Project\obj\Debug\ATM Project.csproj.GenerateResource.Cache
+G:\Practice MVC\ATM Project\ATM Project\obj\Debug\ATM Project.exe
+G:\Practice MVC\ATM Project\ATM Project\obj\Debug\ATM Project.pdb
+G:\Practice MVC\ATM Project\ATM Project\obj\Debug\ATM_Project.MainForm.resources
+G:\Practice MVC\ATM Project\ATM Project\obj\Debug\ATM_Project.LoginForm.resources
+C:\Users\Lenovo\OneDrive\Desktop\ATM Project\ATM Project\bin\Debug\ATM Project.exe.config
+C:\Users\Lenovo\OneDrive\Desktop\ATM Project\ATM Project\bin\Debug\ATM Project.exe
+C:\Users\Lenovo\OneDrive\Desktop\ATM Project\ATM Project\bin\Debug\ATM Project.pdb
+C:\Users\Lenovo\OneDrive\Desktop\ATM Project\ATM Project\obj\Debug\ATM Project.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\ATM Project\ATM Project\obj\Debug\ATM_Project.LoginForm.resources
+C:\Users\Lenovo\OneDrive\Desktop\ATM Project\ATM Project\obj\Debug\ATM_Project.MainForm.resources
+C:\Users\Lenovo\OneDrive\Desktop\ATM Project\ATM Project\obj\Debug\ATM_Project.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Desktop\ATM Project\ATM Project\obj\Debug\ATM Project.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Desktop\ATM Project\ATM Project\obj\Debug\ATM Project.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\ATM Project\ATM Project\obj\Debug\ATM Project.exe
+C:\Users\Lenovo\OneDrive\Desktop\ATM Project\ATM Project\obj\Debug\ATM Project.pdb
+C:\Users\Lenovo\OneDrive\Desktop\ATM Project\ATM Project\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\OneDrive\Desktop\ATM Project\ATM Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\OneDrive\Desktop\ATM Project\ATM Project\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\OneDrive\Desktop\ATM Project\ATM Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\OneDrive\Desktop\ATM Project\ATM Project\obj\Debug\ATM Project.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Desktop\ATM Project\ATM Project\obj\Debug\ATM_Project.AdminForm.resources

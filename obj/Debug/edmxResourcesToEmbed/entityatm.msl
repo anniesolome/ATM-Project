@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ATMDataBaseModel1StoreContainer" CdmEntityContainer="ATMDataBaseEntities1">
+    <EntitySetMapping Name="Transactions">
+      <EntityTypeMapping TypeName="ATMDataBaseModel1.Transaction">
+        <MappingFragment StoreEntitySet="Transactions">
+          <ScalarProperty Name="TransactionID" ColumnName="TransactionID" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="TransactionType" ColumnName="TransactionType" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="ATMDataBaseModel1.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="Accounts_Update" FunctionName="ATMDataBaseModel1.Store.Accounts_Update" />
+    <FunctionImportMapping FunctionImportName="Transactions_Insert" FunctionName="ATMDataBaseModel1.Store.Transactions_Insert" />
+    <FunctionImportMapping FunctionImportName="UserLogin" FunctionName="ATMDataBaseModel1.Store.UserLogin" />
+  </EntityContainerMapping>
+</Mapping>
